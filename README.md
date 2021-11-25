@@ -1,6 +1,6 @@
 # Assignment-SalesKen
 
-Tech-Stck 
+Tech-Stack 
 #HTML
 #CSS
 #Javascript
